@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">" Imdb"</string>
+    <string name="title_activity_imdb_rating">ImdbRating</string>
+</resources>
